@@ -51,18 +51,6 @@ const Navbar = () => {
                 altText="Accomplishments" 
                 label="Accomplishments"
             />
-            <NavItem 
-                to="/" 
-                iconSrc={github} 
-                altText="Github" 
-                label="Github"
-            />
-            <NavItem 
-                to="/" 
-                iconSrc={programming} 
-                altText="CodeChef" 
-                label="CodeChef"
-            />
     </div>
   )
 }
